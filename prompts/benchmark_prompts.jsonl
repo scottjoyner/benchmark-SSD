@@ -1,0 +1,4 @@
+{"id":"summarize","prompt":"Summarize the main differences between speculative decoding and autoregressive decoding in three short paragraphs."}
+{"id":"reasoning","prompt":"A storage benchmark shows 2.4 GB/s sequential read and 350k random read IOPS. Explain what each metric means and when each matters for LLM inference."}
+{"id":"coding","prompt":"Write a Python function that measures tokens per second from a list of completion timings and token counts, then show a short example."}
+{"id":"analysis","prompt":"Explain how model size, quantization level, and context length affect memory use and latency for local inference on a 32 GB system."}
