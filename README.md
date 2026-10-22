@@ -1,9 +1,19 @@
 # benchmark-SSD
 
 <!-- repo-entrypoint-guide:start -->
-> **Benchmark navigation:** Read [Current status](#current-status) before attempting native SSD runs, then [Quick start](#quick-start) for the LM Studio OpenAI-compatible baseline. Do not compare unlike hardware, model variants, quantizations, prompt lengths, or warm-up conditions as if they were controlled results.
-> 
-> **Evidence:** Record model identity, backend, host, context length, sampling parameters, prompt set, and raw timing alongside each benchmark before reporting throughput.
+## Repository guide
+
+**Benchmark navigation:** Read [Current status](#current-status) before attempting native SSD runs, then [Quick start](#quick-start) for the LM Studio OpenAI-compatible baseline. Do not compare unlike hardware, model variants, quantizations, prompt lengths, or warm-up conditions as if they were controlled results.
+
+**Evidence:** Record model identity, backend, host, context length, sampling parameters, prompt set, and raw timing alongside each benchmark before reporting throughput.
+
+### Find your way
+
+- [What is in this repo](#what-is-in-this-repo)
+- [Current status](#current-status)
+- [Recommended local benchmark models](#recommended-local-benchmark-models)
+- [Quick start](#quick-start)
+- [Near-term plan](#near-term-plan)
 <!-- repo-entrypoint-guide:end -->
 
 
