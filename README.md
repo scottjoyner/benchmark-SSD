@@ -1,5 +1,12 @@
 # benchmark-SSD
 
+<!-- repo-entrypoint-guide:start -->
+> **Benchmark navigation:** Read [Current status](#current-status) before attempting native SSD runs, then [Quick start](#quick-start) for the LM Studio OpenAI-compatible baseline. Do not compare unlike hardware, model variants, quantizations, prompt lengths, or warm-up conditions as if they were controlled results.
+> 
+> **Evidence:** Record model identity, backend, host, context length, sampling parameters, prompt set, and raw timing alongside each benchmark before reporting throughput.
+<!-- repo-entrypoint-guide:end -->
+
+
 Workspace for comparing the upstream `ssd` research codebase with a practical local baseline on this Windows 11 Ryzen AI machine.
 
 ## What is in this repo
